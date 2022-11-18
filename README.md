@@ -29,3 +29,32 @@ Similar to loss function, metrics also accepts below two argument
 
 ## Web-Application of this Model using gradio package
 Gradio - open source python library to   build  web appliction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
